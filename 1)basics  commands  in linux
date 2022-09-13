@@ -1,0 +1,47 @@
+1.create a new file 
+     command:cat >file1
+
+2.print good mrng
+     command:echo "good mrng"
+
+3.print  date
+    1) command:date 
+   O\P :Tuesday 13 September 2022 11:14:11 AM IST
+   2)date +" %A  %d  %b"
+   O/P:Tuesday 13  sep
+   3)date+"the day is %A"
+   O/P:the day is Tuesday 
+
+4.print host name
+    1)command:hostname
+    example output:Bairavi
+    2)command:hostnamectl
+
+5.print ip address
+   1)command:hostname -I
+
+6.create a new folder name
+     command:mkdir hacking
+     cd hacking
+
+7.move that file inside hacking directory
+     command: cat > file1
+      command:cat hacking ls
+      O/P:file1
+
+8.create a folder name
+     command:cd Desktop
+     command:mkdir scripting
+
+9.copy to one directory to another
+     command:cp hacking scripting
+     command: cp -R hacking scripting
+     command:ls scripting
+file is copy
+
+10.removed hacking
+     command: rmdir hacking
+      O/P: removed
+ 
+	
+
